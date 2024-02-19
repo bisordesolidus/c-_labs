@@ -45,7 +45,7 @@ plt.xlabel('длина массива')
 plt.grid(True)
 plt.scatter(n, time, color='red', label = 'Перебор')
 plt.scatter(bn, btime, color = 'blue', label = 'Двоичный поиск')
-plt.plot(X,Y,linewidth=2)
+plt.plot(X,Y,linewidth=2, label = 'Оценка сложности')
 plt.legend()
 plt.show()
 
