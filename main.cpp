@@ -20,13 +20,10 @@ bool full_perebor(vector<unsigned long long int>& input_array, unsigned long lon
 			if (input_array[i] == needed) {
 				return true;
 			}
-			else {
-				if (i == input_array.size()-1) {
-					return false;
-				}
-				i++;
-			}
+			i++;
+			
 		}
+	return false;
 }
 
 
