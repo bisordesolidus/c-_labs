@@ -49,4 +49,7 @@ plt.plot(X, Y, linewidth=2)
 plt.legend()
 plt.show()
 
+file.close()
+bfile.close()
+
 #search_plot
