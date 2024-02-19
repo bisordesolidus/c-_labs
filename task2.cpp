@@ -35,7 +35,7 @@ bool sum_linear(vector<unsigned long long int>& input_array, unsigned long long 
 	unsigned long long int r = input_array.size()-1;
 	while (r != -1)
 	{
-		while (l < r and input_array[l] + input_array[r] < needed)
+		while ((l < r) and (input_array[l] + input_array[r] < needed))
 		{
 			++l;
 		}
