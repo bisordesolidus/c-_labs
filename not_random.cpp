@@ -18,9 +18,9 @@ void fill_array(vector<int>& input_array) {
 
 int random(int Min, int Max)
 {
-    unsigned seed = 1448;
-    default_random_engine rng(seed);
-    uniform_int_distribution<unsigned> dstr(Min, Max);
+    static unsigned seed = 1448;
+    static default_random_engine rng(seed);
+    static uniform_int_distribution<unsigned> dstr(Min, Max);
 
     return dstr(rng);
 }
