@@ -43,12 +43,7 @@ bool binar_search(vector<unsigned long long int>& input_array, unsigned long lon
 			l = mid;
 		}
 	}
-	if (input_array[l] == needed) {
-		return true;
-	}
-	else {
-		return false;
-	}
+	return input_array[l] == needed;
 }
 
 
