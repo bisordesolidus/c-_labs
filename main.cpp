@@ -16,7 +16,7 @@ default_random_engine gen;
 
 bool full_perebor(vector<unsigned long long int>& input_array, unsigned long long size, long long int needed) {
 	unsigned long long i = 0;
-		while (i < input_array.size() and input_array[i] != needed) {
+		while (i < input_array.size()) {
 			if (input_array[i] == needed) {
 				return true;
 			}
