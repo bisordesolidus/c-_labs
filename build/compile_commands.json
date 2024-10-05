@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/proga_3_sem/2week/project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/2week/project/include -g -o CMakeFiles\\kal_draw.dir\\main.cpp.obj -c D:\\proga_3_sem\\2week\\project\\main.cpp",
+  "file": "D:\\proga_3_sem\\2week\\project\\main.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/2week/project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/2week/project/include -g -o CMakeFiles\\kal_draw.dir\\src\\utils.cpp.obj -c D:\\proga_3_sem\\2week\\project\\src\\utils.cpp",
+  "file": "D:\\proga_3_sem\\2week\\project\\src\\utils.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\utils.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/2week/project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/2week/project/include -g -o CMakeFiles\\kal_draw.dir\\src\\vec3.cpp.obj -c D:\\proga_3_sem\\2week\\project\\src\\vec3.cpp",
+  "file": "D:\\proga_3_sem\\2week\\project\\src\\vec3.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\vec3.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/2week/project/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/2week/project/include -g -o CMakeFiles\\kal_draw.dir\\src\\transformations.cpp.obj -c D:\\proga_3_sem\\2week\\project\\src\\transformations.cpp",
+  "file": "D:\\proga_3_sem\\2week\\project\\src\\transformations.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\transformations.cpp.obj"
+}
+]
