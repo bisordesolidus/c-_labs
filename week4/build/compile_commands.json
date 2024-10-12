@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\main.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\main.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\main.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\src\\utils.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\src\\utils.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\src\\utils.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\utils.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\src\\vec3.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\src\\vec3.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\src\\vec3.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\vec3.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\src\\transformations.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\src\\transformations.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\src\\transformations.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\transformations.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\src\\ray.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\src\\ray.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\src\\ray.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\ray.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\src\\scene.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\src\\scene.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\src\\scene.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\scene.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\src\\viewport.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\src\\viewport.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\src\\viewport.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\viewport.cpp.obj"
+},
+{
+  "directory": "D:/proga_3_sem/4_week/week4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -ID:/proga_3_sem/4_week/week4/include -g -o CMakeFiles\\kal_draw.dir\\src\\hittable.cpp.obj -c D:\\proga_3_sem\\4_week\\week4\\src\\hittable.cpp",
+  "file": "D:\\proga_3_sem\\4_week\\week4\\src\\hittable.cpp",
+  "output": "CMakeFiles\\kal_draw.dir\\src\\hittable.cpp.obj"
+}
+]
