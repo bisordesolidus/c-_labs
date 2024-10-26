@@ -1,3 +1,0 @@
-D:/proga_3_sem/4_week/week4/build/CMakeFiles/kal_draw.dir
-D:/proga_3_sem/4_week/week4/build/CMakeFiles/edit_cache.dir
-D:/proga_3_sem/4_week/week4/build/CMakeFiles/rebuild_cache.dir
