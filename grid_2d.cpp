@@ -65,7 +65,7 @@ public:
         delete[] data;
     }
 
-    T operator()(size_type y_idx, size_type x_idx) const {
+    const T& operator()(size_type y_idx, size_type x_idx) const {
         return data[y_idx * x_size + x_idx];
     }
 
